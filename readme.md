@@ -5,7 +5,8 @@
 <li>Copy and paste all of the DLLs in the `bin` folder of the SFML download and place them into the root of this project directory. <br>
 <li>To stop include errors in VSCode, open the VSCode Settings UI (Ctrl+Comma) and search for "Compiler"
 <li>Make sure that G++ is set as your Default Compiler path
-<li>Add ```js
+<li>Add </li>
+```js
 "C_Cpp.default.includePath": [
         "${workspaceFolder}/**"
     ],
