@@ -15,6 +15,4 @@ to the bottom of the `settings.json` file
 <li>To compile and run, just run `make`.</li>
 A much better explanation of this setup can be found at this YouTube video: 
 <br>
-<iframe width="640"  height="360"  
-src=https://www.youtube.com/embed/Ljhpsdz8Ouo>  
-</iframe>
+https://www.youtube.com/watch?v=Ljhpsdz8Ouo
